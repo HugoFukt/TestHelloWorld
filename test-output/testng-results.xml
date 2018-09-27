@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="53" started-at="2018-09-27T02:01:50Z" finished-at="2018-09-27T02:01:50Z">
+  <suite name="Default suite" duration-ms="31" started-at="2018-09-27T02:37:21Z" finished-at="2018-09-27T02:37:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="53" started-at="2018-09-27T02:01:50Z" finished-at="2018-09-27T02:01:50Z">
+    <test name="Default test" duration-ms="31" started-at="2018-09-27T02:37:21Z" finished-at="2018-09-27T02:37:21Z">
       <class name="com.yiibai.TestHelloWorld">
-        <test-method status="PASS" signature="testMessageGenerator()[pri:0, instance:com.yiibai.TestHelloWorld@396a51ab]" name="testMessageGenerator" duration-ms="15" started-at="2018-09-27T02:01:50Z" finished-at="2018-09-27T02:01:50Z">
+        <test-method status="PASS" signature="testMessageGenerator()[pri:0, instance:com.yiibai.TestHelloWorld@396a51ab]" name="testMessageGenerator" duration-ms="11" started-at="2018-09-27T02:37:21Z" finished-at="2018-09-27T02:37:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMessageGenerator -->
